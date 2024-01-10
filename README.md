@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Conert</h1>
-  <p>Software developer with an interest in web development, I have a strong passion for I.T love learning how to use new technologies when it comes to programming im like the jack ohttps://www.javascript.com/f all trades, master of <b>ONE</b>(web development) </p>
+  <p>Software developer with an interest in web development, I have a strong passion for I.T love learning how to use new technologies when it comes to programming im like the jack of all trades, master of <b>ONE</b>(web development) </p>
 </div>
 
 
