@@ -1,5 +1,9 @@
-- 👋 Hi, I’m conert
-- 👀 I’m interested in web and mobile app development
+<div id="header" align="center">
+  <h1>Hello there, I'm Conert</h1>
+  <p>Software developer with an interest in web development, I have a strong passion for I.T love learning how to use new technologies when it comes to programming im like the jack ohttps://www.javascript.com/f all trades, master of <b>ONE</b>(web development) </p>
+</div>
+
+
 - 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me?  send me an email on conert.mavuso@gmail.com
 - 👨‍🍳 I have done projects using Java, Python, HTML, CSS, JavaScript, Docker, C++, Dart-Flutter.
